@@ -1,0 +1,12 @@
+battlelog/
+config/
+json/
+logbook_lib/
+logbook.command
+logbook.jar
+logbook.sh
+logs/
+readme.txt
+script/
+sound/
+templates/
